@@ -38,5 +38,5 @@ prose:
           value: "post"
       - name: "published"
         field:
-          value: "true"
+          value: true
 
