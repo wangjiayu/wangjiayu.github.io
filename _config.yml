@@ -40,4 +40,8 @@ prose:
         field:
           element: "hidden"
           value: true
-
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
